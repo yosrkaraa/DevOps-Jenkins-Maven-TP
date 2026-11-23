@@ -1,0 +1,2 @@
+Testing automatic Jenkins pipeline triggering from GitHub.
+DevOps Homework - GitHub Webhook Test.
